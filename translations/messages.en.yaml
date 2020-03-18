@@ -1,0 +1,31 @@
+titre:
+  produit: 'Product'
+  panier: 'Shopping cart'
+
+produit:
+  titre: 'Product List'
+  added : 'Product Added'
+  delete: 'Product Deleted'
+  ajouter: 'Add a product'
+  aucun: "There are no products"
+
+panier:
+  contenu: "Content of the shopping cart"
+
+Nom: "Name"
+Qte : "Quantity"
+Prix : "Price"
+Photo : "Picture"
+Sauvegarder : "Save"
+
+tableau:
+  supprimer: "Delete"
+  nom: "Name"
+  photo : "Picture"
+  description : "Description"
+  qte : "Quantity"
+  prix : "Price"
+  categorie : "Category"
+
+Button:
+  supprimer: "Delete"

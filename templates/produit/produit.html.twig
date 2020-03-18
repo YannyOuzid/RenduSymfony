@@ -1,0 +1,18 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}{{produit.nom}}{% endblock %}
+
+{% block body %}
+<h1>{{'titre.produit'|trans}} : {{produit.nom}}</h1>
+
+{% if produit.photo is not null  %}
+<img src="{{asset('/uploads/'~produit.photo)}}">
+{% endif %}
+
+<p>{{'tableau.prix'|trans}} : {{produit.prix}} €</p>
+<p> {{'tableau.qte'|trans}} : {{produit.qte}}</p>
+
+{{form (form_ajout)}}
+<a href="{{ path('delete_produit',{'id':produit.id}) }}">{{'Button.supprimer'|trans}}</a>
+
+{% endblock %}

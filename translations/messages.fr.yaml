@@ -1,0 +1,31 @@
+titre:
+  produit: 'Produit'
+  panier: 'Panier'
+
+produit:
+  titre: 'Liste des produits'
+  added: 'Produit ajouté'
+  delete: 'Produit supprimé'
+  ajouter: 'Ajouter un produit'
+  aucun: "Il n'y'a pas de produits"
+
+panier:
+  contenu: "Contenu du panier"
+
+Nom: "Nom"
+Qte : "Quantité"
+Prix : "Prix"
+Photo : "Photo"
+Sauvegarder : "Sauvegarder"
+
+tableau:
+  supprimer: "Supprimer"
+  nom: "Nom"
+  photo : "Photo"
+  description : "Description"
+  qte : "Quantité"
+  prix : "Prix"
+  categorie : "Categorie"
+
+Button:
+  supprimer: "Supprimer"

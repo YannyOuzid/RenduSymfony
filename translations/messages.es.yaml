@@ -1,0 +1,31 @@
+titre:
+  produit: 'Producto'
+  panier: 'Carrito de compras'
+
+produit:
+  titre: 'Lista de productos'
+  added : 'Producto agregado'
+  delete: 'Producto eliminado'
+  ajouter: 'Agregar un producto'
+  aucun: "No hay productos"
+
+panier:
+  contenu: "Contenido del carrito de compras"
+
+Nom: "Nombre"
+Qte : "Cantidad"
+Prix : "Precio"
+Photo : "Imagen"
+Sauvegarder : "Salvar"
+
+tableau:
+  supprimer: "Eliminar"
+  nom: "Nombre"
+  photo : "Imagen"
+  description : "Descripción"
+  qte : "Cantidad"
+  prix : "Precio"
+  categorie : "Categoría"
+
+Button:
+  supprimer: "Eliminar"
