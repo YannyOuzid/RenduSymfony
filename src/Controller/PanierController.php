@@ -10,7 +10,7 @@ use Symfony\Contracts\Translation\TranslatorInterface;
 class PanierController extends AbstractController
 {
     /**
-     * @Route("/", name="panier")
+     * @Route("/Panier", name="panier")
      */
     public function index()
     {
