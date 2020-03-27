@@ -27,7 +27,6 @@ class Produit
 
     /**
      * @ORM\Column(type="string", length=255, nullable=true)
-     * @Assert\NotNull
      */
     private $photo;
 
